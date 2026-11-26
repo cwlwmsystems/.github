@@ -32,7 +32,7 @@ We focus on the entire workflow: understanding the business requirement, structu
 
 | Project | What it demonstrates | Source / status |
 | --- | --- | --- |
-| **Port Petals** | Full ecommerce and customer-operations platform including Square checkout, accounts and loyalty | [Repository](https://github.com/cwlwmsystems/port-petals) · · [View Case Study](https://github.com/cwlwmsystems/.github/blob/main/case-studies/port-petals.md) |
+| **Port Petals** | Full ecommerce and customer-operations platform including Square checkout, accounts and loyalty | [Repository](https://github.com/cwlwmsystems/port-petals) · [View Case Study](https://github.com/cwlwmsystems/.github/blob/main/case-studies/port-petals.md) |
 | **Cwlwm Field Operations** | Multi-tenant field operations architecture with mapping, scheduling, sales and reporting | [Repository](https://github.com/cwlwmsystems/cwlwm-field-operations) · Development platform |
 | **Port Allegany Lions Club** | Community organization website with membership, event and contact workflows | [Repository](https://github.com/cwlwmsystems/port-allegany-lions-club) · Working prototype; approvals and launch requirements documented |
 | **Olson & Tenglund** | Regional auto-parts website, catalog/fitment and inventory workspace | [Website code](https://github.com/kaseypelchy-ops/olson-tenglund-info) · [Application code](https://github.com/kaseypelchy-ops/olson-tenglund) |
