@@ -4,7 +4,7 @@ Cwlwm Systems was founded in **August 2026**. This index distinguishes company e
 
 | Project | Type | Repository | Documented state |
 | --- | --- | --- | --- |
-| Port Petals | Ecommerce, customer accounts and operations | [cwlwmsystems/port-petals](https://github.com/cwlwmsystems/port-petals) | README describes production / active development |
+| Port Petals | Ecommerce, customer accounts and operations | [cwlwmsystems/port-petals](https://github.com/cwlwmsystems/port-petals) | · [View Case Study](https://github.com/cwlwmsystems/.github/blob/main/case-studies/port-petals.md) |
 | Cwlwm Field Operations | Multi-tenant operational software | [cwlwmsystems/cwlwm-field-operations](https://github.com/cwlwmsystems/cwlwm-field-operations) | Development / release milestones documented |
 | Port Allegany Lions Club | Community organization website | [cwlwmsystems/port-allegany-lions-club](https://github.com/cwlwmsystems/port-allegany-lions-club) | Working prototype with launch dependencies |
 | Olson & Tenglund informational site | Automotive retailer website | [kaseypelchy-ops/olson-tenglund-info](https://github.com/kaseypelchy-ops/olson-tenglund-info) | Source in founder's account |
